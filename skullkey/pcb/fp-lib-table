@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name artwork)(type KiCad)(uri C:/Users/acamilo/Documents/GitHub/keything/skullkey/artwork.pretty)(options "")(descr ""))
+  (lib (name HSMC-C265)(type KiCad)(uri C:/Users/acamilo/Documents/GitHub/keything/skullkey/fp_lib/HSMC-C265.pretty)(options "")(descr ""))
+  (lib (name SS-12D06L5)(type KiCad)(uri C:/Users/acamilo/Documents/GitHub/keything/skullkey/fp_lib/SS-12D06L5.pretty)(options "")(descr ""))
+  (lib (name unified)(type KiCad)(uri C:/Users/acamilo/Documents/GitHub/keything/skullkey/fp_lib/unified.pretty)(options "")(descr ""))
+  (lib (name usb-pcb)(type KiCad)(uri C:/Users/acamilo/Documents/GitHub/keything/skullkey/fp_lib/usb-pcb.pretty)(options "")(descr ""))
+)

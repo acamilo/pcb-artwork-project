@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name artwork)(type KiCad)(uri ${KIPRJMOD}/artwork.pretty)(options "")(descr ""))
+  (lib (name E6C1204RGBC3UDA)(type KiCad)(uri ${KIPRJMOD}/fp_lib/E6C1204RGBC3UDA.pretty)(options "")(descr ""))
+  (lib (name HSMC-C265)(type KiCad)(uri ${KIPRJMOD}/fp_lib/HSMC-C265.pretty)(options "")(descr ""))
+  (lib (name LTST-S270KRKT)(type KiCad)(uri ${KIPRJMOD}/fp_lib/LTST-S270KRKT.pretty)(options "")(descr ""))
+  (lib (name SK68XX_SIDE)(type KiCad)(uri ${KIPRJMOD}/fp_lib/SK68XX_SIDE.pretty)(options "")(descr ""))
+  (lib (name SS-12D06L5)(type KiCad)(uri ${KIPRJMOD}/fp_lib/SS-12D06L5.pretty)(options "")(descr ""))
+  (lib (name unified)(type KiCad)(uri ${KIPRJMOD}/fp_lib/unified.pretty)(options "")(descr ""))
+  (lib (name usb-pcb)(type KiCad)(uri ${KIPRJMOD}/fp_lib/usb-pcb.pretty)(options "")(descr ""))
+)

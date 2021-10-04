@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name 74lvc1g125)(type Legacy)(uri ${KIPRJMOD}/sch_lib/74lvc1g125.lib)(options "")(descr ""))
+  (lib (name ATSAMD51G19A-MU)(type Legacy)(uri ${KIPRJMOD}/sch_lib/ATSAMD51G19A-MU.lib)(options "")(descr ""))
+  (lib (name CH552G)(type Legacy)(uri ${KIPRJMOD}/sch_lib/CH552G.lib)(options "")(descr ""))
+  (lib (name HSMC-C265)(type Legacy)(uri ${KIPRJMOD}/sch_lib/HSMC-C265.lib)(options "")(descr ""))
+  (lib (name SK68XX_SIDE)(type Legacy)(uri ${KIPRJMOD}/sch_lib/SK68XX_SIDE.lib)(options "")(descr ""))
+  (lib (name USB4110-GF-A)(type Legacy)(uri ${KIPRJMOD}/sch_lib/USB4110-GF-A.lib)(options "")(descr ""))
+)

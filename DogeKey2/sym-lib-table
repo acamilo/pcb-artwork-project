@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name CH552G)(type Legacy)(uri ${KIPRJMOD}/sch_lib/CH552G.lib)(options "")(descr ""))
+  (lib (name hephaestus-brain-pcb-SMT-MIXED-rescue)(type Legacy)(uri C:/Users/acamilo/Documents/GitHub/Hephaestus-Brain/hephaestus-brain-pcb-SMT-MIXED-rescue.lib)(options "")(descr ""))
+  (lib (name HSMC-C265)(type Legacy)(uri C:/Users/acamilo/Documents/GitHub/keything/Dogekey/HSMC-C265.lib)(options "")(descr ""))
+  (lib (name SK68XX_SIDE)(type Legacy)(uri ${KIPRJMOD}/sch_lib/SK68XX_SIDE.lib)(options "")(descr ""))
+)

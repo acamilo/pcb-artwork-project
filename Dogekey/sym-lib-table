@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name 74lvc1g125)(type Legacy)(uri ${KIPRJMOD}/sch_lib/74lvc1g125.lib)(options "")(descr ""))
+  (lib (name ATSAMD51G19A-MU)(type Legacy)(uri ${KIPRJMOD}/sch_lib/ATSAMD51G19A-MU.lib)(options "")(descr ""))
+  (lib (name USB4110-GF-A)(type Legacy)(uri ${KIPRJMOD}/sch_lib/USB4110-GF-A.lib)(options "")(descr ""))
+  (lib (name hephaestus-brain-pcb-SMT-MIXED-rescue)(type Legacy)(uri C:/Users/acamilo/Documents/GitHub/Hephaestus-Brain/hephaestus-brain-pcb-SMT-MIXED-rescue.lib)(options "")(descr ""))
+  (lib (name HSMC-C265)(type Legacy)(uri ${KIPRJMOD}/sch_lib/HSMC-C265.lib)(options "")(descr ""))
+)
